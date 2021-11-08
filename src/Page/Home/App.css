@@ -1,0 +1,73 @@
+.App {
+    text-align: center;
+  }
+  
+  .formulario {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .App-header {
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px);
+    color: white;
+    
+  }
+  
+  .btn {
+    background-color: purple;
+    border-width: 6px;
+    border-color: purple;
+    font-size: calc(10px);
+  }
+  
+  .Title {
+    font-size: 40px;
+  }
+  
+  td{
+    padding: 10px; 
+  }
+  
+  thead {
+    font-size: 22px;
+  }
+  
+  tbody {
+    font-size: 15px;
+  }
+  
+  main {
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  
+  .trd{
+    max-width: 1200px;
+  }
+  
+  .btnp {
+    background-color:purple;
+    border-width: 6px;
+    border-color: purple;
+    font-size: calc(10px);
+  }
